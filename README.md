@@ -1,6 +1,6 @@
 <div align="center">
   <img src="profile-animation.gif" alt="Animated Profile GIF" width="50%">
-  <h1>👋 Welcome to [Your Name]’s GitHub!</h1>
+  <h1>👋 Hi, This is Balakavi</h1>
   <p>I’m a [Your Role] passionate about [Your Interests].</p>
 
   <!-- Social Links -->
