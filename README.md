@@ -1,4 +1,4 @@
-### Hi there, I'm Kavi! 👋
+### Hey Hi, This is Kavi 👋
 
 ![Cybersecurity & AI Enthusiast](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNG9keXRzbDd6NDRmNGI1dHhyZm93djQxcDJzMWNqbmM4d2Q1cjhlYiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/RDZo7znAdn2u7sAcWH/giphy.gif)
 
