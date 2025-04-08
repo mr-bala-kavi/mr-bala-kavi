@@ -13,10 +13,10 @@
 ---
 
 ## 🧠 About Me
-🔹 **Cybersecurity Learner | Prompt Engineer | Mentor**  
-🔹 Passionate about **AI, Full-Stack Development, and Cybersecurity**  
-🔹 Building projects that blend **AI, Security, and Automation**  
-🔹 Sharing my **Cybersecurity Journey** on **Instagram & YouTube**
+- 🔹 **Cybersecurity Learner | Prompt Engineer | Mentor**  
+- 🔹 Passionate about **AI, Full-Stack Development, and Cybersecurity**  
+- 🔹 Building projects that blend **AI, Security, and Automation**  
+- 🔹 Sharing my **Cybersecurity Journey** on **Instagram & YouTube**
 
 ---
 
@@ -29,7 +29,7 @@
   <img src="https://img.icons8.com/color/48/bootstrap--v2.png" title="Bootstrap"/>
   <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/external-php-web-development-flaticons-lineal-color-flat-icons-2.png" title="PHP"/>
   <img src="https://img.icons8.com/color/48/mysql-logo.png" title="MySQL"/>
-  <img src="https://img.icons8.com/color/48/xampp.png" title="XAMPP"/>
+  
 </p>
 
 ### 🔹 AI & Cybersecurity
@@ -49,18 +49,7 @@
 
 ---
 
-## 🌟 Featured Projects
-
-🔹 **Face Recognition ATM System** – Secure ATM access using AI authentication  
-🔹 **Industrial Automation with IoT** – Remote monitoring & control with ESP32  
-🔹 **Cybersecurity Threat Detection** – Simulating attacks & defenses in a lab setup  
-🔹 **Event Ticket Booking System** – Full-stack app built with React & Node.js  
-🔹 **Password Manager with Biometric Security** – Secure password storage using fingerprint authentication  
-
----
-
 ## 📊 GitHub Stats
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mr-bala-kavi&show_icons=true&theme=tokyonight&hide_border=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mr-bala-kavi&layout=compact&theme=tokyonight&hide_border=true" />
@@ -69,7 +58,6 @@
 ---
 
 ## 🔥 GitHub Streak
-
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=mr-bala-kavi&theme=tokyonight&hide_border=true" />
 </p>
@@ -77,21 +65,39 @@
 ---
 
 ## 🖼️ Activity Graph
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mr-bala-kavi&bg_color=050505&color=43e137&line=26d929&point=05acff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mr-bala-kavi&bg_color=050505&color=43e137&line=26d929&point=05acff&area=true&hide_border=true" />
+</p>
 
 ---
 
-## 🐍 Contribution Snake (Alternative View)
+## 🐍 Contribution Snake
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+</p>
 
-> In case your snake isn't working, you can try a fallback like this:
+---
 
-![Alt Snake](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg)
+## 📦 Python Package on PyPI
+<p align="left">
+  <a href="https://pypi.org/project/opscan/">
+    <img src="https://img.shields.io/pypi/v/opscan?color=brightgreen&label=opscan&logo=pypi&logoColor=white" alt="PyPI - Version">
+  </a>
+  <a href="https://pypi.org/project/opscan/">
+    <img src="https://img.shields.io/pypi/dm/opscan?color=blue&label=Downloads" alt="PyPI - Downloads">
+  </a>
+</p>
+
+- [`opscan`](https://pypi.org/project/opscan/) — A fast and simple open port scanner in Python.  
+Easily scan ports on any IP address with:
+
+```bash
+pip install opscan
+```
 
 ---
 
 ## 📢 Connect with Me
-
 <p align="left">
   <a href="https://www.linkedin.com/in/balakavi">
     <img src="https://img.icons8.com/color/48/linkedin.png" title="LinkedIn" height="40"/>
@@ -104,12 +110,12 @@
   </a>
 </p>
 
-
 ---
 
 ## 👀 Profile Views
-
-![Profile Views](https://komarev.com/ghpvc/?username=mr-bala-kavi&color=0e75b6&style=flat-square)
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=mr-bala-kavi&color=0e75b6&style=flat-square" />
+</p>
 
 ---
 
