@@ -13,10 +13,10 @@
 ---
 
 ## 🧠 About Me
-- 🔹 **Cybersecurity Learner | Prompt Engineer | Mentor**  
-- 🔹 Passionate about **AI, Full-Stack Development, and Cybersecurity**  
-- 🔹 Building projects that blend **AI, Security, and Automation**  
-- 🔹 Sharing my **Cybersecurity Journey** on **Instagram & YouTube**
+ 🔹 **Cybersecurity Learner | Prompt Engineer | Mentor**  
+ 🔹 Passionate about **AI, Full-Stack Development, and Cybersecurity**  
+ 🔹 Building projects that blend **AI, Security, and Automation**  
+ 🔹 Sharing my **Cybersecurity Journey** on **Instagram & YouTube**
 
 ---
 
