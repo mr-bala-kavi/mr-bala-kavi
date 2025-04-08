@@ -94,15 +94,16 @@
 
 <p align="left">
   <a href="https://www.linkedin.com/in/balakavi">
-    <img src="https://img.icons8.com/color/48/linkedin.png" title="LinkedIn"/>
+    <img src="https://img.icons8.com/color/48/linkedin.png" title="LinkedIn" height="40"/>
   </a>
   <a href="https://www.instagram.com/kavi.s_network/">
-    <img src="https://img.icons8.com/3d-fluency/94/instagram-logo.png" title="Instagram"/>
+    <img src="https://img.icons8.com/3d-fluency/94/instagram-logo.png" title="Instagram" height="40"/>
   </a>
   <a href="https://github.com/mr-bala-kavi">
-    <img src="https://img.icons8.com/3d-fluency/94/github-logo.png" title="GitHub"/>
+    <img src="https://img.icons8.com/3d-fluency/94/github-logo.png" title="GitHub" height="40"/>
   </a>
 </p>
+
 
 ---
 
