@@ -1,4 +1,4 @@
-### Hey Hi, This is Kavi 👋
+### Hey there, I’m Kavi 👋
 
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNG9keXRzbDd6NDRmNGI1dHhyZm93djQxcDJzMWNqbmM4d2Q1cjhlYiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/RDZo7znAdn2u7sAcWH/giphy.gif" width="400" />
@@ -8,48 +8,66 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=00F79A&center=true&vCenter=true&width=435&lines=Keep+Building;Keep+Breaking+and+Learning;Cybersecurity+is+My+Playground" />
 </p>
 
-> *“Hacking is not just a skill, it’s a mindset.” – Kavi*
+> *"Hacking is not just a skill, it's a mindset." – Kavi*
 
 ---
 
-## 🧠 About Me
- 🔹 **Cybersecurity Learner | Prompt Engineer | Mentor**  
- 🔹 Passionate about **AI, Full-Stack Development, and Cybersecurity**  
- 🔹 Building projects that blend **AI, Security, and Automation**  
- 🔹 Sharing my **Cybersecurity Journey** on **Instagram & YouTube**
+## 🧩 About Me
+
+I’m **Kavi**, a passionate **Cybersecurity Learner, Mentor, and AI Explorer**.
+I love building things that merge **Security, Artificial Intelligence, and Automation** — from threat detection systems to intelligent ethical hacking tools.
+
+I believe in learning by doing — breaking, fixing, and building again.
+Currently, I mentor beginners stepping into cybersecurity while working on practical tools that make security **simpler, smarter, and more scalable.**
 
 ---
 
-## 🛠️ Tech Stack
+## 🧠 What I Do
 
-### 🔹 Programming & Web Development
-<p align="left">
-  <img src="https://img.icons8.com/fluency/48/python.png" title="Python"/>
-  <img src="https://img.icons8.com/color/48/html-5--v1.png" title="HTML5"/>
-  <img src="https://img.icons8.com/color/48/bootstrap--v2.png" title="Bootstrap"/>
-  <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/external-php-web-development-flaticons-lineal-color-flat-icons-2.png" title="PHP"/>
-  <img src="https://img.icons8.com/color/48/mysql-logo.png" title="MySQL"/>
-  
-</p>
-
-### 🔹 AI & Cybersecurity
-<p align="left">
-  <img src="https://img.icons8.com/plasticine/100/kali-linux.png" title="Kali Linux"/>
-  <img src="https://img.icons8.com/color/48/nmap.png" title="Nmap"/>
-  <img src="https://img.icons8.com/nolan/64/wireshark--v1.png" title="Wireshark"/>
-  <img src="https://img.icons8.com/nolan/64/cyber-security.png" title="Nessus"/>
-  <img src="https://img.icons8.com/external-flaticons-flat-flat-icons/64/external-hydra-ancient-greek-mythology-monsters-and-creatures-flaticons-flat-flat-icons.png" title="Hydra"/>
-</p>
-
-### 🔹 IoT & Embedded Systems
-<p align="left">
-  <img src="https://img.icons8.com/fluency/48/arduino.png" title="Arduino"/>
-  <img src="https://img.icons8.com/color/48/raspberry-pi.png" title="Raspberry Pi"/>
-</p>
+* 🔐 Explore **Cybersecurity & Ethical Hacking** through automation and AI
+* ⚙️ Develop **Python-based tools** that simplify scanning, analysis, and defense
+* 🧩 Experiment with **IoT Security**, Embedded Systems, and Real-time Monitoring
+* 🧭 Mentor learners and professionals to transition from **theory → real-world projects**
 
 ---
 
-## 📊 GitHub Stats
+## 🧰 Tech Focus Areas
+
+### 💻 Programming
+
+Python · PHP · HTML · Bootstrap · MySQL
+
+### 🛡️ Cybersecurity
+
+Kali Linux · Nmap · Wireshark · Nessus · Hydra · Burp Suite · Metasploit Framework
+
+### 🤖 Artificial Intelligence
+
+Machine Learning · Deep Learning · Generative AI · Prompt Engineering · AI Security
+
+### 🔌 IoT & Embedded Systems
+
+Arduino · Raspberry Pi · ESP32 · IoT Security · Microcontrollers
+
+---
+
+## 📦 My Python Package
+
+**[`opscan`](https://pypi.org/project/opscan/)** — A fast and simple open port scanner built with Python.
+It’s lightweight, beginner-friendly, and perfect for automating reconnaissance.
+
+```bash
+pip install opscan
+```
+
+✅ Published on [PyPI](https://pypi.org/project/opscan/)
+✅ 100% Open Source
+✅ Designed for learners and professionals alike
+
+---
+
+## 📊 GitHub Analytics
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mr-bala-kavi&show_icons=true&theme=tokyonight&hide_border=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mr-bala-kavi&layout=compact&theme=tokyonight&hide_border=true" />
@@ -57,64 +75,47 @@
 
 ---
 
-<!--## 🔥 GitHub Streak
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=mr-bala-kavi&theme=tokyonight&hide_border=true" />
-</p>-->
+## 📈 Activity & Contributions
 
-## 🖼️ Activity Graph
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mr-bala-kavi&bg_color=050505&color=43e137&line=26d929&point=05acff&area=true&hide_border=true" />
 </p>
 
----
-
-## 🐍 Contribution Snake
 <p align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
 
-## 📦 Python Package on PyPI
-<p align="left">
-  <a href="https://pypi.org/project/opscan/">
-    <img src="https://img.shields.io/pypi/v/opscan?color=brightgreen&label=opscan&logo=pypi&logoColor=white" alt="PyPI - Version">
-  </a>
-  <a href="https://pypi.org/project/opscan/">
-    <img src="https://img.shields.io/pypi/dm/opscan?color=blue&label=Downloads" alt="PyPI - Downloads">
-  </a>
-</p>
+## 🌐 Connect with Me
 
-- [`opscan`](https://pypi.org/project/opscan/) — A fast and simple open port scanner in Python.  
-Easily scan ports on any IP address with:
-
-```bash
-pip install opscan
-```
-
----
-
-## 📢 Connect with Me
-<p align="left">
-  <a href="https://www.linkedin.com/in/balakavi">
-    <img src="https://img.icons8.com/color/48/linkedin.png" title="LinkedIn" height="40"/>
+<p align="center">
+  <a href="https://www.linkedin.com/in/balakavi/">
+    <img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn" width="40"/>
   </a>
   <a href="https://www.instagram.com/kavi.s_network/">
-    <img src="https://img.icons8.com/3d-fluency/94/instagram-logo.png" title="Instagram" height="40"/>
+    <img src="https://img.icons8.com/3d-fluency/94/instagram-logo.png" alt="Instagram" width="40"/>
   </a>
-  <a href="https://github.com/mr-bala-kavi">
-    <img src="https://img.icons8.com/3d-fluency/94/github-logo.png" title="GitHub" height="40"/>
+  <a href="mailto:kavisnetwork@gmail.com">
+    <img src="https://img.icons8.com/color/48/gmail-new.png" alt="Email" width="40"/>
+  </a>
+  <a href="https://topmate.io/kavis_network/">
+    <img src="https://topmate.io/cdn-cgi/image/width=48,quality=90/images/common/logo-icon.svg" alt="Topmate" width="40"/>
+  </a>
+  <a href="https://www.youtube.com/@Kavis_Network">
+    <img src="https://img.icons8.com/color/48/youtube-play.png" alt="YouTube" width="40"/>
   </a>
 </p>
 
 ---
 
-## 👀 Profile Views
+## 👀 Profile Insights
+
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=mr-bala-kavi&color=0e75b6&style=flat-square" />
 </p>
 
 ---
 
-💡 *Always learning, building, and exploring the world of Cybersecurity & AI!* 🔥
+💡 *Always building, learning, and exploring the future of Cybersecurity with AI.*
+🔥 *Let’s connect, collaborate, and create something powerful.*
